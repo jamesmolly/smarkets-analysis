@@ -1,2 +1,1 @@
 # smarkets-analysis
-# smarkets-analysis
